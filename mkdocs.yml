@@ -1,0 +1,38 @@
+site_name: "Documentação PROJUDI"
+repo_url: "https://github.com/projudi/documentacao_projudi"
+docs_dir: .
+theme:
+  name: material
+nav:
+  - Início: index.md
+  - Requisitos Juiz 1 Grau: requisitos_juiz_1_grau.md
+  - Agenda: agenda/requisitos.md
+  - Analisar Autos Conclusos: analisar-autos-conclusos/requisitos.md
+  - Analisar Pendência: analisar-pendencia/requisitos.md
+  - Assessor: assessor/requisitos.md
+  - Audiência x Processo Movimentação: audienciaprocesso-movimentacao/requisitos.md
+  - Audiência x Processo: audienciaprocesso/requisitos.md
+  - Audiências: audiencias/requisitos.md
+  - Busca de Processo: busca-processo/requisitos.md
+  - Celular: celular/requisitos.md
+  - Certidão: certidao/requisitos.md
+  - Classificador: classificador/requisitos.md
+  - Configuração Pré-Análise Automática: configuracao-pre-analise-automatica/requisitos.md
+  - Conclusões: conclusoes/requisitos.md
+  - Consultar Audiência DRS: consultar-audiencia-drs/requisitos.md
+  - Consultar Jurisprudência: consultar-jurisprudencia/requisitos.md
+  - Cumprimentos: cumprimentos/requisitos.md
+  - Dados do Usuário: dados-usuario/requisitos.md
+  - Descartar Pendência: descartar-pendencia/requisitos.md
+  - Distribuição: distribuicao/requisitos.md
+  - Enviar Mídias – Upload: enviar-midias-upload/requisitos.md
+  - Estatística de Produtividade Item: estatisticaprodutividadeitem/requisitos.md
+  - Gráficos Funções: graficos-funcoes/requisitos.md
+  - Guia Emissão: guia-emissao/requisitos.md
+  - Liminar Deferida: liminar-deferida/requisitos.md
+  - Mandado de Prisão: mandado-de-prisao/requisitos.md
+  - Modelo: modelo/requisitos.md
+  - Movimentação Arquivo: movimentacao-arquivo/requisitos.md
+  - Movimentação Tipo: movimentacao-tipo/requisitos.md
+  - Movimentação: movimentacao/requisitos.md
+  - Pendência Arquivo: pendencia-arquivo/requisitos.md
